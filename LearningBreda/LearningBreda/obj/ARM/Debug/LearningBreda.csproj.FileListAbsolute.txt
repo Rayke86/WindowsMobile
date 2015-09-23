@@ -1,6 +1,5 @@
 C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\bin\ARM\Debug\ApplicationInsights.config
 C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\bin\ARM\Debug\App.xbf
-C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\bin\ARM\Debug\MainPage.xbf
 C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\bin\ARM\Debug\LearningBreda.xr.xml
 C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\bin\ARM\Debug\LearningBreda.exe
 C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\bin\ARM\Debug\LearningBreda.pdb
@@ -238,13 +237,9 @@ C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\bin\ARM\Debug\S
 C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\bin\ARM\Debug\System.Xml.XmlSerializer.dll
 C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\App.g.i.cs
 C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\App.g.cs
-C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\MainPage.g.i.cs
-C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\MainPage.g.cs
 C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\XamlTypeInfo.g.cs
 C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\App.xaml
-C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\MainPage.xaml
 C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\App.xbf
-C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\MainPage.xbf
 C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\XamlSaveStateFile.xml
 C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\LearningBreda.exe
 C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\LearningBreda.pdb
@@ -435,3 +430,9 @@ C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\C
 C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\Core\LearningBreda.xr.xml
 C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\Core\WinMetadata\Windows.winmd
 C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\Core\resources.pri
+C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\bin\ARM\Debug\View\MainPage.xbf
+C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\LearningBreda.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\View\MainPage.g.i.cs
+C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\View\MainPage.g.cs
+C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\View\MainPage.xaml
+C:\Users\Tim\Documents\WindowsMobile\LearningBreda\LearningBreda\obj\ARM\Debug\View\MainPage.xbf
