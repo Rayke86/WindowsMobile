@@ -10,11 +10,15 @@
     <Grid Background="Black">
         <!--{ThemeResource ApplicationPageBackgroundThemeBrush}">-->
         <Image x:ConnectionId='1' x:Name="image" HorizontalAlignment="Left" Height="224" Margin="74,110,0,0" VerticalAlignment="Top" Width="238" Source="ms-appx:///Assets/logo.png"/>
+<<<<<<< HEAD
+        <Button x:ConnectionId='2' x:Name="button" Content="Go to AniCons" HorizontalAlignment="Left" Margin="74,339,0,0" VerticalAlignment="Top" Height="84" Width="205" Foreground="White" Background="#FF571A1A"                    />
+=======
         <Button x:ConnectionId='2' x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="74,339,0,0" VerticalAlignment="Top" Height="84" Width="205" Foreground="White">
             <Button.Background>
                 <ImageBrush ImageSource="ms-appx:///Assets/Chibi-Holo-Big-Apple-holo-the-wise-wolf-21301345-438-436.jpg" Stretch="Fill"/>
             </Button.Background>
         </Button>
+>>>>>>> 5aa4098241d2261164ffdcc2f62150a859ba8ad7
 
     </Grid>
 </Page>

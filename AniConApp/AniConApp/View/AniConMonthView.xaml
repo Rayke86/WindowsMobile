@@ -7,36 +7,32 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
+    <Page.Resources>
+        <CollectionViewSource x:Key="src" IsSourceGrouped="True"/>
+    </Page.Resources>
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Grid.Resources>
             <CollectionViewSource x:Key="src" IsSourceGrouped="True"/>
         </Grid.Resources>
-        <ListView x:Name="listView" HorizontalAlignment="Left" Height="640" VerticalAlignment="Top" Width="360"
-            ItemsSource="{Binding Source={StaticResource src}}">
-            <ListView.Resources>
-                <DataTemplate x:Key="Header">
-                    <TextBlock Text="{Binding Month}" FontSize="40"/>
-                </DataTemplate>
-            </ListView.Resources>
-            <ListView.GroupStyle>
-                <GroupStyle HeaderTemplate="{Binding Source={StaticResource Header}}">
-                </GroupStyle>
-            </ListView.GroupStyle>
-            <ListView.ItemTemplate>
+        <Hub x:Name="Hub" Header="Anime Cons">
+            <HubSection DataContext="{Binding Groups[0]}">
                 <DataTemplate>
-                    <Grid Height="80">
-                        <Grid.RowDefinitions>
-                            <RowDefinition />
-                            <RowDefinition />
-                        </Grid.RowDefinitions>
-                        <TextBlock
-                    FontWeight="Bold"
-                    FontSize="24"
-                    Text="{Binding Anicon}" />
-                    </Grid>
-                </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
+                    <ListView ItemsSource="{Binding Items}">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel >
+                                    <TextBlock Text="{Binding Name}" />
+                                    <TextBlock Text="{Binding Location}"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                        
+                    </ListView>
 
+                </DataTemplate>
+            </HubSection>
+        </Hub>
+        
+        
     </Grid>
 </Page>

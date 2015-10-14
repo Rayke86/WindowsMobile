@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>LAPTOP_RAY</Machine>
-    <WindowsUser>RayRo_000</WindowsUser>
+    <Machine>TIM_LAPTOP</Machine>
+    <WindowsUser>Tim</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>48ffd225-6a0d-485f-9f6f-cab21dc70d78</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\obj\x86\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>F735B0AE2CD8E6B929DF8E1BF3121532C675C28DE56CA4EC5B7010F932AC217E</RegisteredManifestChecksum>
+    <IntermediateOutputPath>C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>B1BDAEA6BCB064C348E04A44B0C520AC42926114E79E07906C22B2EA8EACAEC2</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>48ffd225-6a0d-485f-9f6f-cab21dc70d78_1.0.0.0_x86__9pc4ezq4rpv7w</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>48ffd225-6a0d-485f-9f6f-cab21dc70d78_9pc4ezq4rpv7w!App</RegisteredUserModeAppID>
     <RegisteredPackageID>48ffd225-6a0d-485f-9f6f-cab21dc70d78</RegisteredPackageID>
@@ -19,501 +19,501 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-14T08:43:04.044</Modified>
+      <Modified>2015-10-14T09:15:36.095</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\AniConApp.exe">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\AniConApp.exe">
       <PackagePath>AniConApp.exe</PackagePath>
-      <Modified>2015-10-14T08:43:03.711</Modified>
+      <Modified>2015-10-14T09:15:36.092</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\AniConApp.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\AniConApp.xr.xml">
       <PackagePath>AniConApp.xr.xml</PackagePath>
-      <Modified>2015-10-14T08:42:58.597</Modified>
+      <Modified>2015-10-14T09:15:34.758</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\Chibi-Holo-Big-Apple-holo-the-wise-wolf-21301345-438-436.jpg">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\Chibi-Holo-Big-Apple-holo-the-wise-wolf-21301345-438-436.jpg">
       <PackagePath>Assets\Chibi-Holo-Big-Apple-holo-the-wise-wolf-21301345-438-436.jpg</PackagePath>
-      <Modified>2015-10-14T08:38:14.643</Modified>
+      <Modified>2015-09-30T08:21:04.613</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\icon_150.png">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\icon_150.png">
       <PackagePath>Assets\icon_150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-14T08:38:14.658</Modified>
+      <Modified>2015-09-30T08:21:01.201</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\icon_310.png">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\icon_310.png">
       <PackagePath>Assets\icon_310.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-14T08:38:14.658</Modified>
+      <Modified>2015-09-30T08:21:01.207</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\icon_44.png">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\icon_44.png">
       <PackagePath>Assets\icon_44.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-14T08:38:14.658</Modified>
+      <Modified>2015-09-30T08:21:01.208</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2015-10-14T08:38:14.643</Modified>
+      <Modified>2015-09-30T08:21:04.608</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\logo.png">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\logo.png">
       <PackagePath>Assets\logo.png</PackagePath>
-      <Modified>2015-10-14T08:38:14.658</Modified>
+      <Modified>2015-09-30T08:21:01.214</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-14T08:38:14.643</Modified>
+      <Modified>2015-09-30T08:21:04.607</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
-      <Modified>2015-10-14T08:38:14.643</Modified>
+      <Modified>2015-09-30T08:21:04.605</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-      <Modified>2015-10-14T08:38:14.643</Modified>
+      <Modified>2015-09-30T08:21:04.603</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <Modified>2015-10-14T08:38:14.643</Modified>
+      <Modified>2015-09-30T08:21:04.602</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-14T08:38:14.643</Modified>
+      <Modified>2015-09-30T08:21:04.600</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
-      <Modified>2015-10-14T08:38:14.658</Modified>
+      <Modified>2015-09-30T08:21:04.598</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\ClrCompression.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\ClrCompression.dll">
       <PackagePath>ClrCompression.dll</PackagePath>
-      <Modified>2015-10-07T12:25:54.560</Modified>
+      <Modified>2015-09-16T09:42:44.319</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\entrypoint\AniConApp.exe">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\entrypoint\AniConApp.exe">
       <PackagePath>entrypoint\AniConApp.exe</PackagePath>
-      <Modified>2015-10-14T08:42:58.818</Modified>
+      <Modified>2015-10-14T09:15:34.889</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Microsoft.CSharp.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
-      <Modified>2015-10-07T12:25:44.912</Modified>
+      <Modified>2015-09-16T09:42:43.132</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Microsoft.VisualBasic.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Microsoft.VisualBasic.dll">
       <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
-      <Modified>2015-10-07T12:25:45.680</Modified>
+      <Modified>2015-09-16T09:42:42.976</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll">
       <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.639</Modified>
+      <Modified>2015-09-16T09:42:42.512</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2015-10-14T08:38:14.658</Modified>
+      <Modified>2015-09-30T08:21:04.594</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-10-14T08:43:00.278</Modified>
+      <Modified>2015-10-14T09:15:35.557</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.AppContext.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>
-      <Modified>2015-10-07T12:25:44.241</Modified>
+      <Modified>2015-09-16T09:42:42.926</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Collections.Concurrent.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Collections.Concurrent.dll">
       <PackagePath>System.Collections.Concurrent.dll</PackagePath>
-      <Modified>2015-10-07T12:25:45.695</Modified>
+      <Modified>2015-09-16T09:42:42.968</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Collections.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Collections.dll">
       <PackagePath>System.Collections.dll</PackagePath>
-      <Modified>2015-10-07T12:25:43.741</Modified>
+      <Modified>2015-09-16T09:42:43.005</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Collections.Immutable.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Collections.Immutable.dll">
       <PackagePath>System.Collections.Immutable.dll</PackagePath>
-      <Modified>2015-10-07T12:25:45.773</Modified>
+      <Modified>2015-09-16T09:42:43.011</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Collections.NonGeneric.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Collections.NonGeneric.dll">
       <PackagePath>System.Collections.NonGeneric.dll</PackagePath>
-      <Modified>2015-10-07T12:25:42.988</Modified>
+      <Modified>2015-09-16T09:42:43.553</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Collections.Specialized.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Collections.Specialized.dll">
       <PackagePath>System.Collections.Specialized.dll</PackagePath>
-      <Modified>2015-10-07T12:25:43.350</Modified>
+      <Modified>2015-09-16T09:42:43.046</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll">
       <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
-      <Modified>2015-10-07T12:25:45.617</Modified>
+      <Modified>2015-09-16T09:42:43.049</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll">
       <PackagePath>System.ComponentModel.DataAnnotations.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.811</Modified>
+      <Modified>2015-09-16T09:42:42.631</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ComponentModel.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ComponentModel.dll">
       <PackagePath>System.ComponentModel.dll</PackagePath>
-      <Modified>2015-10-07T12:25:44.633</Modified>
+      <Modified>2015-09-16T09:42:42.972</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll">
       <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
-      <Modified>2015-10-07T12:25:40.347</Modified>
+      <Modified>2015-09-16T09:42:42.593</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Core.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Core.dll">
       <PackagePath>System.Core.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.842</Modified>
+      <Modified>2015-09-16T09:42:42.632</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Data.Common.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Data.Common.dll">
       <PackagePath>System.Data.Common.dll</PackagePath>
-      <Modified>2015-10-07T12:25:42.211</Modified>
+      <Modified>2015-09-16T09:42:42.640</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll">
       <PackagePath>System.Diagnostics.Contracts.dll</PackagePath>
-      <Modified>2015-10-07T12:25:38.592</Modified>
+      <Modified>2015-09-16T09:42:42.642</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Diagnostics.Debug.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Diagnostics.Debug.dll">
       <PackagePath>System.Diagnostics.Debug.dll</PackagePath>
-      <Modified>2015-10-07T12:25:45.570</Modified>
+      <Modified>2015-09-16T09:42:42.993</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll">
       <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.811</Modified>
+      <Modified>2015-09-16T09:42:43.007</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Diagnostics.Tools.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Diagnostics.Tools.dll">
       <PackagePath>System.Diagnostics.Tools.dll</PackagePath>
-      <Modified>2015-10-07T12:25:45.773</Modified>
+      <Modified>2015-09-16T09:42:43.018</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll">
       <PackagePath>System.Diagnostics.Tracing.dll</PackagePath>
-      <Modified>2015-10-07T12:25:44.756</Modified>
+      <Modified>2015-09-16T09:42:43.123</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.dll">
       <PackagePath>System.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.858</Modified>
+      <Modified>2015-09-16T09:42:42.635</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Dynamic.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Dynamic.Runtime.dll">
       <PackagePath>System.Dynamic.Runtime.dll</PackagePath>
-      <Modified>2015-10-07T12:25:45.983</Modified>
+      <Modified>2015-09-16T09:42:43.173</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Globalization.Calendars.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Globalization.Calendars.dll">
       <PackagePath>System.Globalization.Calendars.dll</PackagePath>
-      <Modified>2015-10-07T12:25:45.633</Modified>
+      <Modified>2015-09-16T09:42:43.159</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Globalization.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Globalization.dll">
       <PackagePath>System.Globalization.dll</PackagePath>
-      <Modified>2015-10-07T12:25:43.757</Modified>
+      <Modified>2015-09-16T09:42:43.142</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Globalization.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Globalization.Extensions.dll">
       <PackagePath>System.Globalization.Extensions.dll</PackagePath>
-      <Modified>2015-10-07T12:25:46.637</Modified>
+      <Modified>2015-09-16T09:42:43.169</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.IO.Compression.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.IO.Compression.dll">
       <PackagePath>System.IO.Compression.dll</PackagePath>
-      <Modified>2015-10-07T12:25:46.497</Modified>
+      <Modified>2015-09-16T09:42:43.345</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll">
       <PackagePath>System.IO.Compression.ZipFile.dll</PackagePath>
-      <Modified>2015-10-07T12:25:46.247</Modified>
+      <Modified>2015-09-16T09:42:43.200</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.IO.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.IO.dll">
       <PackagePath>System.IO.dll</PackagePath>
-      <Modified>2015-10-07T12:25:44.429</Modified>
+      <Modified>2015-09-16T09:42:43.189</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.IO.FileSystem.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.IO.FileSystem.dll">
       <PackagePath>System.IO.FileSystem.dll</PackagePath>
-      <Modified>2015-10-07T12:25:46.025</Modified>
+      <Modified>2015-09-16T09:42:43.560</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll">
       <PackagePath>System.IO.FileSystem.Primitives.dll</PackagePath>
-      <Modified>2015-10-07T12:25:49.375</Modified>
+      <Modified>2015-09-16T09:42:43.381</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll">
       <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
-      <Modified>2015-10-07T12:25:42.180</Modified>
+      <Modified>2015-09-16T09:42:42.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll">
       <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
-      <Modified>2015-10-07T12:25:46.606</Modified>
+      <Modified>2015-09-16T09:42:43.540</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Linq.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Linq.dll">
       <PackagePath>System.Linq.dll</PackagePath>
-      <Modified>2015-10-07T12:25:47.403</Modified>
+      <Modified>2015-09-16T09:42:43.446</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Linq.Expressions.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Linq.Expressions.dll">
       <PackagePath>System.Linq.Expressions.dll</PackagePath>
-      <Modified>2015-10-07T12:25:45.820</Modified>
+      <Modified>2015-09-16T09:42:43.611</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Linq.Parallel.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Linq.Parallel.dll">
       <PackagePath>System.Linq.Parallel.dll</PackagePath>
-      <Modified>2015-10-07T12:25:47.481</Modified>
+      <Modified>2015-09-16T09:42:43.510</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Linq.Queryable.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Linq.Queryable.dll">
       <PackagePath>System.Linq.Queryable.dll</PackagePath>
-      <Modified>2015-10-07T12:25:46.841</Modified>
+      <Modified>2015-09-16T09:42:43.419</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Net.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Net.dll">
       <PackagePath>System.Net.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.874</Modified>
+      <Modified>2015-09-16T09:42:42.639</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Net.Http.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Net.Http.dll">
       <PackagePath>System.Net.Http.dll</PackagePath>
-      <Modified>2015-10-07T12:25:44.382</Modified>
+      <Modified>2015-09-16T09:42:43.525</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Net.Http.Rtc.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Net.Http.Rtc.dll">
       <PackagePath>System.Net.Http.Rtc.dll</PackagePath>
-      <Modified>2015-10-07T12:25:40.222</Modified>
+      <Modified>2015-09-16T09:42:42.768</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Net.NetworkInformation.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Net.NetworkInformation.dll">
       <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
-      <Modified>2015-10-07T12:25:46.637</Modified>
+      <Modified>2015-09-16T09:42:43.381</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Net.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Net.Primitives.dll">
       <PackagePath>System.Net.Primitives.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.717</Modified>
+      <Modified>2015-09-16T09:42:43.413</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Net.Requests.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Net.Requests.dll">
       <PackagePath>System.Net.Requests.dll</PackagePath>
-      <Modified>2015-10-07T12:25:40.410</Modified>
+      <Modified>2015-09-16T09:42:42.790</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Net.Sockets.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Net.Sockets.dll">
       <PackagePath>System.Net.Sockets.dll</PackagePath>
-      <Modified>2015-10-07T12:25:40.410</Modified>
+      <Modified>2015-09-16T09:42:42.812</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll">
       <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.012</Modified>
+      <Modified>2015-09-16T09:42:42.778</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Numerics.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Numerics.dll">
       <PackagePath>System.Numerics.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.889</Modified>
+      <Modified>2015-09-16T09:42:42.642</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Numerics.Vectors.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Numerics.Vectors.dll">
       <PackagePath>System.Numerics.Vectors.dll</PackagePath>
-      <Modified>2015-10-07T12:25:43.460</Modified>
+      <Modified>2015-09-16T09:42:43.411</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll">
       <PackagePath>System.Numerics.Vectors.WindowsRuntime.dll</PackagePath>
-      <Modified>2015-10-07T12:25:38.997</Modified>
+      <Modified>2015-09-16T09:42:42.764</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ObjectModel.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ObjectModel.dll">
       <PackagePath>System.ObjectModel.dll</PackagePath>
-      <Modified>2015-10-07T12:25:46.169</Modified>
+      <Modified>2015-09-16T09:42:43.414</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll">
       <PackagePath>System.Private.DataContractSerialization.dll</PackagePath>
-      <Modified>2015-10-07T12:25:40.030</Modified>
+      <Modified>2015-09-16T09:42:42.675</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Private.Networking.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Private.Networking.dll">
       <PackagePath>System.Private.Networking.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.717</Modified>
+      <Modified>2015-09-16T09:42:43.512</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Private.ServiceModel.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Private.ServiceModel.dll">
       <PackagePath>System.Private.ServiceModel.dll</PackagePath>
-      <Modified>2015-10-07T12:25:44.225</Modified>
+      <Modified>2015-09-16T09:42:43.030</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Private.Uri.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Private.Uri.dll">
       <PackagePath>System.Private.Uri.dll</PackagePath>
-      <Modified>2015-10-07T12:25:38.124</Modified>
+      <Modified>2015-09-16T09:42:42.506</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.Context.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.Context.dll">
       <PackagePath>System.Reflection.Context.dll</PackagePath>
-      <Modified>2015-10-07T12:25:42.101</Modified>
+      <Modified>2015-09-16T09:42:42.769</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll">
       <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
-      <Modified>2015-10-07T12:25:47.263</Modified>
+      <Modified>2015-09-16T09:42:43.435</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.dll">
       <PackagePath>System.Reflection.dll</PackagePath>
-      <Modified>2015-10-07T12:25:43.944</Modified>
+      <Modified>2015-09-16T09:42:43.487</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.Emit.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.Emit.dll">
       <PackagePath>System.Reflection.Emit.dll</PackagePath>
-      <Modified>2015-10-07T12:25:54.669</Modified>
+      <Modified>2015-09-16T09:42:44.328</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll">
       <PackagePath>System.Reflection.Emit.ILGeneration.dll</PackagePath>
-      <Modified>2015-10-07T12:25:54.779</Modified>
+      <Modified>2015-09-16T09:42:44.319</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll">
       <PackagePath>System.Reflection.Emit.Lightweight.dll</PackagePath>
-      <Modified>2015-10-07T12:25:54.544</Modified>
+      <Modified>2015-09-16T09:42:44.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.Extensions.dll">
       <PackagePath>System.Reflection.Extensions.dll</PackagePath>
-      <Modified>2015-10-07T12:25:47.122</Modified>
+      <Modified>2015-09-16T09:42:43.485</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.Metadata.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.Metadata.dll">
       <PackagePath>System.Reflection.Metadata.dll</PackagePath>
-      <Modified>2015-10-07T12:25:47.184</Modified>
+      <Modified>2015-09-16T09:42:43.554</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.Primitives.dll">
       <PackagePath>System.Reflection.Primitives.dll</PackagePath>
-      <Modified>2015-10-07T12:25:46.200</Modified>
+      <Modified>2015-09-16T09:42:43.527</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll">
       <PackagePath>System.Reflection.TypeExtensions.dll</PackagePath>
-      <Modified>2015-10-07T12:25:46.700</Modified>
+      <Modified>2015-09-16T09:42:43.499</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Resources.ResourceManager.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Resources.ResourceManager.dll">
       <PackagePath>System.Resources.ResourceManager.dll</PackagePath>
-      <Modified>2015-10-07T12:25:43.288</Modified>
+      <Modified>2015-09-16T09:42:43.528</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
-      <Modified>2015-10-07T12:25:44.022</Modified>
+      <Modified>2015-09-16T09:42:43.825</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.Extensions.dll">
       <PackagePath>System.Runtime.Extensions.dll</PackagePath>
-      <Modified>2015-10-07T12:25:44.085</Modified>
+      <Modified>2015-09-16T09:42:43.632</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.Handles.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.Handles.dll">
       <PackagePath>System.Runtime.Handles.dll</PackagePath>
-      <Modified>2015-10-07T12:25:44.100</Modified>
+      <Modified>2015-09-16T09:42:43.601</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.InteropServices.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.InteropServices.dll">
       <PackagePath>System.Runtime.InteropServices.dll</PackagePath>
-      <Modified>2015-10-07T12:25:43.585</Modified>
+      <Modified>2015-09-16T09:42:43.707</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll">
       <PackagePath>System.Runtime.InteropServices.WindowsRuntime.dll</PackagePath>
-      <Modified>2015-10-07T12:25:38.825</Modified>
+      <Modified>2015-09-16T09:42:42.786</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.Numerics.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.Numerics.dll">
       <PackagePath>System.Runtime.Numerics.dll</PackagePath>
-      <Modified>2015-10-07T12:25:47.372</Modified>
+      <Modified>2015-09-16T09:42:43.672</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.Serialization.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.Serialization.dll">
       <PackagePath>System.Runtime.Serialization.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.905</Modified>
+      <Modified>2015-09-16T09:42:42.652</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll">
       <PackagePath>System.Runtime.Serialization.Json.dll</PackagePath>
-      <Modified>2015-10-07T12:25:42.523</Modified>
+      <Modified>2015-09-16T09:42:42.832</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll">
       <PackagePath>System.Runtime.Serialization.Primitives.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.059</Modified>
+      <Modified>2015-09-16T09:42:42.821</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll">
       <PackagePath>System.Runtime.Serialization.Xml.dll</PackagePath>
-      <Modified>2015-10-07T12:25:42.711</Modified>
+      <Modified>2015-09-16T09:42:42.872</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll">
       <PackagePath>System.Runtime.WindowsRuntime.dll</PackagePath>
-      <Modified>2015-10-07T12:25:42.461</Modified>
+      <Modified>2015-09-16T09:42:42.898</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll">
       <PackagePath>System.Runtime.WindowsRuntime.UI.Xaml.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.624</Modified>
+      <Modified>2015-09-16T09:42:42.875</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Security.Claims.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Security.Claims.dll">
       <PackagePath>System.Security.Claims.dll</PackagePath>
-      <Modified>2015-10-07T12:25:47.106</Modified>
+      <Modified>2015-09-16T09:42:43.652</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Security.Principal.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Security.Principal.dll">
       <PackagePath>System.Security.Principal.dll</PackagePath>
-      <Modified>2015-10-07T12:25:49.438</Modified>
+      <Modified>2015-09-16T09:42:43.654</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ServiceModel.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ServiceModel.dll">
       <PackagePath>System.ServiceModel.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.936</Modified>
+      <Modified>2015-09-16T09:42:42.667</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll">
       <PackagePath>System.ServiceModel.Duplex.dll</PackagePath>
-      <Modified>2015-10-07T12:25:40.030</Modified>
+      <Modified>2015-09-16T09:42:42.856</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ServiceModel.Http.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ServiceModel.Http.dll">
       <PackagePath>System.ServiceModel.Http.dll</PackagePath>
-      <Modified>2015-10-07T12:25:42.086</Modified>
+      <Modified>2015-09-16T09:42:42.859</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll">
       <PackagePath>System.ServiceModel.NetTcp.dll</PackagePath>
-      <Modified>2015-10-07T12:25:42.101</Modified>
+      <Modified>2015-09-16T09:42:42.879</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll">
       <PackagePath>System.ServiceModel.Primitives.dll</PackagePath>
-      <Modified>2015-10-07T12:25:42.461</Modified>
+      <Modified>2015-09-16T09:42:43.009</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ServiceModel.Security.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ServiceModel.Security.dll">
       <PackagePath>System.ServiceModel.Security.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.512</Modified>
+      <Modified>2015-09-16T09:42:42.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ServiceModel.Web.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.ServiceModel.Web.dll">
       <PackagePath>System.ServiceModel.Web.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.952</Modified>
+      <Modified>2015-09-16T09:42:42.669</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll">
       <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.702</Modified>
+      <Modified>2015-09-16T09:42:43.027</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Text.Encoding.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Text.Encoding.dll">
       <PackagePath>System.Text.Encoding.dll</PackagePath>
-      <Modified>2015-10-07T12:25:44.069</Modified>
+      <Modified>2015-09-16T09:42:43.653</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll">
       <PackagePath>System.Text.Encoding.Extensions.dll</PackagePath>
-      <Modified>2015-10-07T12:25:46.997</Modified>
+      <Modified>2015-09-16T09:42:43.681</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Text.RegularExpressions.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Text.RegularExpressions.dll">
       <PackagePath>System.Text.RegularExpressions.dll</PackagePath>
-      <Modified>2015-10-07T12:25:46.512</Modified>
+      <Modified>2015-09-16T09:42:43.742</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Threading.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Threading.dll">
       <PackagePath>System.Threading.dll</PackagePath>
-      <Modified>2015-10-07T12:25:44.413</Modified>
+      <Modified>2015-09-16T09:42:43.818</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Threading.Overlapped.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Threading.Overlapped.dll">
       <PackagePath>System.Threading.Overlapped.dll</PackagePath>
-      <Modified>2015-10-07T12:25:38.046</Modified>
+      <Modified>2015-09-16T09:42:42.479</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll">
       <PackagePath>System.Threading.Tasks.Dataflow.dll</PackagePath>
-      <Modified>2015-10-07T12:25:47.559</Modified>
+      <Modified>2015-09-16T09:42:43.826</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Threading.Tasks.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Threading.Tasks.dll">
       <PackagePath>System.Threading.Tasks.dll</PackagePath>
-      <Modified>2015-10-07T12:25:47.763</Modified>
+      <Modified>2015-09-16T09:42:43.816</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll">
       <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
-      <Modified>2015-10-07T12:25:47.388</Modified>
+      <Modified>2015-09-16T09:42:43.759</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Threading.Timer.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Threading.Timer.dll">
       <PackagePath>System.Threading.Timer.dll</PackagePath>
-      <Modified>2015-10-07T12:25:46.903</Modified>
+      <Modified>2015-09-16T09:42:43.827</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Windows.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Windows.dll">
       <PackagePath>System.Windows.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.967</Modified>
+      <Modified>2015-09-16T09:42:42.672</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Xml.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Xml.dll">
       <PackagePath>System.Xml.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.983</Modified>
+      <Modified>2015-09-16T09:42:42.674</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Xml.Linq.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Xml.Linq.dll">
       <PackagePath>System.Xml.Linq.dll</PackagePath>
-      <Modified>2015-10-07T12:25:39.999</Modified>
+      <Modified>2015-09-16T09:42:42.676</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll">
       <PackagePath>System.Xml.ReaderWriter.dll</PackagePath>
-      <Modified>2015-10-07T12:25:47.684</Modified>
+      <Modified>2015-09-16T09:42:43.888</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Xml.Serialization.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Xml.Serialization.dll">
       <PackagePath>System.Xml.Serialization.dll</PackagePath>
-      <Modified>2015-10-07T12:25:40.014</Modified>
+      <Modified>2015-09-16T09:42:42.681</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Xml.XDocument.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Xml.XDocument.dll">
       <PackagePath>System.Xml.XDocument.dll</PackagePath>
-      <Modified>2015-10-07T12:25:49.328</Modified>
+      <Modified>2015-09-16T09:42:43.822</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Xml.XmlDocument.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Xml.XmlDocument.dll">
       <PackagePath>System.Xml.XmlDocument.dll</PackagePath>
-      <Modified>2015-10-07T12:25:38.108</Modified>
+      <Modified>2015-09-16T09:42:42.511</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
-      <Modified>2015-10-07T12:25:42.492</Modified>
+      <Modified>2015-09-16T09:42:42.996</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\WinMetadata\Windows.winmd">
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\WinMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
-      <Modified>2015-10-14T08:38:14.705</Modified>
+      <Modified>2015-09-30T08:21:03.918</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
@@ -546,27 +546,27 @@
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.22929.0</Version>
+      <Version>14.0.23019.0</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23019.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.22929.0</Version>
+      <Version>14.0.23019.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23019.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.22929.0</Version>
+      <Version>14.0.23019.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23019.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>

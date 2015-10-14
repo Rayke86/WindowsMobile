@@ -1,1 +1,1 @@
-C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\AniConApp.csproj;x86
+C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\AniConApp.csproj;x86

@@ -1291,6 +1291,23 @@ C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\Core\Asse
 C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\Core\Assets\Wide310x150Logo.scale-200.png
 C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\Core\Properties\Default.rd.xml
 C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\Core\resources.pri
+<<<<<<< HEAD
+C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\ARM\Debug\View\AniConInfoView.xbf
+C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\ARM\Debug\View\AniConMonthView.xbf
+C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\ARM\Debug\View\AniConRouteView.xbf
+C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\View\AniConInfoView.g.i.cs
+C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\View\AniConInfoView.g.cs
+C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\View\AniConMonthView.g.i.cs
+C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\View\AniConMonthView.g.cs
+C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\View\AniConRouteView.g.i.cs
+C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\View\AniConRouteView.g.cs
+C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\View\AniConInfoView.xaml
+C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\View\AniConMonthView.xaml
+C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\View\AniConRouteView.xaml
+C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\View\AniConInfoView.xbf
+C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\View\AniConMonthView.xbf
+C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\View\AniConRouteView.xbf
+=======
 C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\ARM\Debug\App.xbf
 C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\ARM\Debug\View\MainPage.xbf
 C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\bin\ARM\Debug\AniConApp.xr.xml
@@ -1725,3 +1742,4 @@ C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConAp
 C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\Core\System.Xml.XmlSerializer.dll
 C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\Core\AniConApp.xr.xml
 C:\Users\RayRo_000\Documents\School\Periode 4.1\WindowsMobile\AniConApp\AniConApp\obj\ARM\Debug\Core\resources.pri
+>>>>>>> 5aa4098241d2261164ffdcc2f62150a859ba8ad7
