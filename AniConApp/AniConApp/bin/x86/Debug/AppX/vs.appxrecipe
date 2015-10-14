@@ -22,13 +22,13 @@
     <AppXManifest Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-14T09:24:59.393</Modified>
+      <Modified>2015-10-14T09:32:00.597</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\AniConApp.exe">
       <PackagePath>AniConApp.exe</PackagePath>
-      <Modified>2015-10-14T09:24:59.390</Modified>
+      <Modified>2015-10-14T09:32:00.592</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\AniConApp.xr.xml">
       <PackagePath>AniConApp.xr.xml</PackagePath>
@@ -93,7 +93,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\entrypoint\AniConApp.exe">
       <PackagePath>entrypoint\AniConApp.exe</PackagePath>
-      <Modified>2015-10-14T09:24:58.846</Modified>
+      <Modified>2015-10-14T09:31:59.178</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -113,7 +113,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-10-14T09:20:35.711</Modified>
+      <Modified>2015-10-14T09:32:00.065</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>
@@ -513,7 +513,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\WinMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
-      <Modified>2015-09-30T08:21:03.918</Modified>
+      <Modified>2015-10-14T09:25:39.248</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

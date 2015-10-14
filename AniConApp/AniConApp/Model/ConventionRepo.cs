@@ -8,5 +8,6 @@ namespace AniConApp.Model
 {
     class ConventionRepo
     {
+
     }
 }

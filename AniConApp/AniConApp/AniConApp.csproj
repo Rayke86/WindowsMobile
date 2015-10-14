@@ -97,6 +97,8 @@
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
     <Compile Include="Control\MainController.cs" />
+    <Compile Include="Model\Convention.cs" />
+    <Compile Include="Model\ConventionRepo.cs" />
     <Compile Include="View\AniConInfoView.xaml.cs">
       <DependentUpon>AniConInfoView.xaml</DependentUpon>
     </Compile>
