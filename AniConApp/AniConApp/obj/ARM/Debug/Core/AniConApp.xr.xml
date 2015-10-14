@@ -28,6 +28,7 @@
       <RootProperty Name="Width" />
       <RootProperty Name="Source" />
     </RootType>
+<<<<<<< HEAD
     <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="Margin" />
@@ -65,6 +66,8 @@
     </RootType>
     <RootType FullName="AniConApp.View.AniConMonthView" />
     <RootType FullName="AniConApp.View.AniConRouteView" />
+=======
+>>>>>>> 5aa4098241d2261164ffdcc2f62150a859ba8ad7
     <RootType FullName="Windows.UI.Xaml.Controls.Button">
       <RootProperty Name="Content" />
       <RootProperty Name="HorizontalAlignment" />
@@ -74,7 +77,14 @@
       <RootProperty Name="Width" />
       <RootProperty Name="Foreground" />
       <RootProperty Name="Background" />
+<<<<<<< HEAD
       <RootEvent Name="Click" />
+=======
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.ImageBrush">
+      <RootProperty Name="ImageSource" />
+      <RootProperty Name="Stretch" />
+>>>>>>> 5aa4098241d2261164ffdcc2f62150a859ba8ad7
     </RootType>
     <RootType FullName="AniConApp.MainPage" />
   </Roots.RootTypes>

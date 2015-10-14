@@ -96,6 +96,7 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Control\MainController.cs" />
     <Compile Include="View\AniConInfoView.xaml.cs">
       <DependentUpon>AniConInfoView.xaml</DependentUpon>
     </Compile>
@@ -154,7 +155,6 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Control\" />
     <Folder Include="Model\" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">

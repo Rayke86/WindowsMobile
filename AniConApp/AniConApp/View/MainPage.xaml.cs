@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AniConApp.Control;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -22,8 +23,11 @@ namespace AniConApp
     /// </summary>
     public sealed partial class MainPage : Page
     {
+        private MainController mainController;
+
         public MainPage()
         {
+            mainController = new MainController();
             this.InitializeComponent();
         }
 

@@ -22,17 +22,17 @@
     <AppXManifest Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-14T08:47:59.381</Modified>
+      <Modified>2015-10-14T09:15:36.095</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\AniConApp.exe">
       <PackagePath>AniConApp.exe</PackagePath>
-      <Modified>2015-10-14T08:47:59.375</Modified>
+      <Modified>2015-10-14T09:15:36.092</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\AniConApp.xr.xml">
       <PackagePath>AniConApp.xr.xml</PackagePath>
-      <Modified>2015-10-14T08:38:44.879</Modified>
+      <Modified>2015-10-14T09:15:34.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Assets\Chibi-Holo-Big-Apple-holo-the-wise-wolf-21301345-438-436.jpg">
       <PackagePath>Assets\Chibi-Holo-Big-Apple-holo-the-wise-wolf-21301345-438-436.jpg</PackagePath>
@@ -93,7 +93,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\entrypoint\AniConApp.exe">
       <PackagePath>entrypoint\AniConApp.exe</PackagePath>
-      <Modified>2015-10-14T08:47:58.840</Modified>
+      <Modified>2015-10-14T09:15:34.889</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -113,7 +113,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-10-14T08:38:46.457</Modified>
+      <Modified>2015-10-14T09:15:35.557</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>
