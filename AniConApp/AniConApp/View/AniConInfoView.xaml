@@ -8,6 +8,8 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Image x:Name="image" HorizontalAlignment="Left" Height="190" Margin="10,72,0,0" VerticalAlignment="Top" Width="340" Source="ms-appx:///Assets/Chibi-Holo-Big-Apple-holo-the-wise-wolf-21301345-438-436.jpg"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="10,267,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Height="268" Width="340"/>
 
     </Grid>
 </Page>
