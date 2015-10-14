@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Roots >
   <Roots.PropertyPathNames>
-    <RootPropertyPathName Name="Groups" />
+    <RootPropertyPathName Name="Year" />
     <RootPropertyPathName Name="Items" />
     <RootPropertyPathName Name="Location" />
     <RootPropertyPathName Name="Name" />

@@ -24,7 +24,13 @@ namespace AniConApp.View
     /// </summary>
     public sealed partial class AniConMonthView : Page
     {
-        public List<Month> Year = new List<Month>();
+        //public List<Month> Year = new List<Month>();
+
+        private ObservableCollection<Month> _year = new ObservableCollection<Month>();
+        public ObservableCollection<Month> Year
+        {
+            get { return this._year; }
+        }
 
         public AniConMonthView()
         {
@@ -41,6 +47,7 @@ namespace AniConApp.View
 
 
             var aniCons = (CollectionViewSource)Resources["src"];
+
 
             //JsonObject aniConsYear = new JsonObject();
             //JsonArray Year = new JsonArray();
@@ -66,11 +73,7 @@ namespace AniConApp.View
 
         }
 
-        private ObservableCollection<Month> _groups = new ObservableCollection<Month>();
-        public ObservableCollection<Month> Groups
-        {
-            get { return this._groups; }
-        }
+
 
 
 

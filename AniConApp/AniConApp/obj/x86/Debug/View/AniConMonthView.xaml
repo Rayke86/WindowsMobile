@@ -15,7 +15,7 @@
             <CollectionViewSource x:Key="src" IsSourceGrouped="True"/>
         </Grid.Resources>
         <Hub x:ConnectionId='1' x:Name="Hub" Header="Anime Cons">
-            <HubSection DataContext="{Binding Groups[0]}">
+            <HubSection DataContext="{Binding Year[0]}">
                 <DataTemplate>
                     <ListView ItemsSource="{Binding Items}">
                         <ListView.ItemTemplate>

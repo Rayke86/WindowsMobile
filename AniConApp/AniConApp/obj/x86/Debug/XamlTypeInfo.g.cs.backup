@@ -259,7 +259,7 @@ namespace AniConApp.AniConApp_XamlTypeInfo
             case 3:   //  AniConApp.View.AniConMonthView
                 userType = new global::AniConApp.AniConApp_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
                 userType.Activator = Activate_3_AniConMonthView;
-                userType.AddMemberName("Year");
+                userType.AddMemberName("Groups");
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
@@ -334,10 +334,10 @@ namespace AniConApp.AniConApp_XamlTypeInfo
         }
 
 
-        private object get_0_AniConMonthView_Year(object instance)
+        private object get_0_AniConMonthView_Groups(object instance)
         {
             var that = (global::AniConApp.View.AniConMonthView)instance;
-            return that.Year;
+            return that.Groups;
         }
         private object get_1_Month_Items(object instance)
         {
@@ -372,10 +372,10 @@ namespace AniConApp.AniConApp_XamlTypeInfo
 
             switch (longMemberName)
             {
-            case "AniConApp.View.AniConMonthView.Year":
+            case "AniConApp.View.AniConMonthView.Groups":
                 userType = (global::AniConApp.AniConApp_XamlTypeInfo.XamlUserType)GetXamlTypeByName("AniConApp.View.AniConMonthView");
-                xamlMember = new global::AniConApp.AniConApp_XamlTypeInfo.XamlMember(this, "Year", "System.Collections.ObjectModel.ObservableCollection`1<AniConApp.View.Month>");
-                xamlMember.Getter = get_0_AniConMonthView_Year;
+                xamlMember = new global::AniConApp.AniConApp_XamlTypeInfo.XamlMember(this, "Groups", "System.Collections.ObjectModel.ObservableCollection`1<AniConApp.View.Month>");
+                xamlMember.Getter = get_0_AniConMonthView_Groups;
                 xamlMember.SetIsReadOnly();
                 break;
             case "AniConApp.View.Month.Items":
