@@ -9,7 +9,8 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Image x:ConnectionId='1' x:Name="image" HorizontalAlignment="Left" Height="190" Margin="10,72,0,0" VerticalAlignment="Top" Width="340" Source="ms-appx:///Assets/Chibi-Holo-Big-Apple-holo-the-wise-wolf-21301345-438-436.jpg"/>
-        <TextBox x:ConnectionId='2' x:Name="textBox" HorizontalAlignment="Left" Margin="10,267,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Height="268" Width="340"/>
+        <TextBox x:ConnectionId='2' x:Name="textBox" HorizontalAlignment="Left" Margin="10,267,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="268" Width="340"/>
+        <Button x:ConnectionId='3' x:Name="button" Content="Go Back" HorizontalAlignment="Left" Margin="10,540,0,0" VerticalAlignment="Top" Height="90" Width="178"                     />
 
     </Grid>
 </Page>

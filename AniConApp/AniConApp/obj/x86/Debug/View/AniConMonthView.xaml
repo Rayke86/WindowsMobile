@@ -10,30 +10,77 @@
     <Page.Resources>
         <CollectionViewSource x:Key="src" IsSourceGrouped="True"/>
     </Page.Resources>
+   <!--<Page.DataContext>
+        <local:Month/>
+    </Page.DataContext>-->
+    
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Grid.Resources>
             <CollectionViewSource x:Key="src" IsSourceGrouped="True"/>
         </Grid.Resources>
-        <Hub x:ConnectionId='1' x:Name="Hub" Header="Anime Cons">
-            <HubSection DataContext="{Binding Year[0]}">
+
+
+       <!-- <ListView ItemsSource="{Binding Items}" x:Name="AniCons">
+            <ListView.Resources>
+                
+            </ListView.Resources>
+            <ListView.DataContext>
+                <local:Month/>
+            </ListView.DataContext>
+            <ListView.ItemTemplate>
                 <DataTemplate>
-                    <ListView ItemsSource="{Binding Items}">
+                    <StackPanel >
+                        <TextBlock Text="{Binding Name}" />
+                        <TextBlock Text="{Binding Location}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+
+        </ListView> -->
+
+       <!-- <ListView ItemsSource="{Binding Items}" x:Name="AniCons" Margin="0,81,10,0">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel >
+                        <TextBlock Text="{Binding Name}" />
+                        <TextBlock Text="{Binding Location}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+
+        </ListView> -->
+
+        <Hub x:ConnectionId='1' Header="Anime Cons" IsZoomedInView="True" IsTabStop="True" x:Name="AniHub" DataContext="{Binding}">
+            <HubSection x:ConnectionId='2' Width="362" x:Name="AniHub2" DataContext="{Binding}">
+                <!--<HubSection.DataContext>
+                    <local:Month/>
+                </HubSection.DataContext> -->
+                <DataTemplate>
+                    <ListView x:ConnectionId='3' ItemsSource="{Binding}" x:Name="MonthView"                                                                        >
                         <ListView.ItemTemplate>
                             <DataTemplate>
-                                <StackPanel >
-                                    <TextBlock Text="{Binding Name}" />
-                                    <TextBlock Text="{Binding Location}"/>
+                                <StackPanel>
+                                    <ListView x:ConnectionId='4' ItemsSource="{Binding Items}" Header="{Binding Name}"                                SelectionMode="Single"                                                                      >
+                                        <ListView.ItemTemplate>
+                                            <DataTemplate>
+                                                <StackPanel >
+                                                    <TextBlock Text="{Binding Name}" />
+                                                    <TextBlock Text="{Binding Location}"/>
+                                                </StackPanel>
+                                            </DataTemplate>
+                                        </ListView.ItemTemplate>
+
+                                    </ListView>
                                 </StackPanel>
                             </DataTemplate>
                         </ListView.ItemTemplate>
-                        
                     </ListView>
 
                 </DataTemplate>
             </HubSection>
-        </Hub>
-        
-        
+        </Hub> 
+
+
     </Grid>
 </Page>
 

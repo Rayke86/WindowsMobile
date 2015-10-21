@@ -132,15 +132,37 @@ namespace AniConApp.AniConApp_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[3];
-            _typeNameTable[0] = "AniConApp.MainPage";
+            _typeNameTable = new string[14];
+            _typeNameTable[0] = "AniConApp.View.AniConInfoView";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
+            _typeNameTable[3] = "AniConApp.View.AniConMonthView";
+            _typeNameTable[4] = "System.Collections.ObjectModel.ObservableCollection`1<AniConApp.View.Month>";
+            _typeNameTable[5] = "System.Collections.ObjectModel.Collection`1<AniConApp.View.Month>";
+            _typeNameTable[6] = "Object";
+            _typeNameTable[7] = "AniConApp.View.Month";
+            _typeNameTable[8] = "System.Collections.ObjectModel.ObservableCollection`1<AniConApp.View.AniconValues>";
+            _typeNameTable[9] = "System.Collections.ObjectModel.Collection`1<AniConApp.View.AniconValues>";
+            _typeNameTable[10] = "AniConApp.View.AniconValues";
+            _typeNameTable[11] = "String";
+            _typeNameTable[12] = "AniConApp.View.AniConRouteView";
+            _typeNameTable[13] = "AniConApp.MainPage";
 
-            _typeTable = new global::System.Type[3];
-            _typeTable[0] = typeof(global::AniConApp.MainPage);
+            _typeTable = new global::System.Type[14];
+            _typeTable[0] = typeof(global::AniConApp.View.AniConInfoView);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
+            _typeTable[3] = typeof(global::AniConApp.View.AniConMonthView);
+            _typeTable[4] = typeof(global::System.Collections.ObjectModel.ObservableCollection<global::AniConApp.View.Month>);
+            _typeTable[5] = typeof(global::System.Collections.ObjectModel.Collection<global::AniConApp.View.Month>);
+            _typeTable[6] = typeof(global::System.Object);
+            _typeTable[7] = typeof(global::AniConApp.View.Month);
+            _typeTable[8] = typeof(global::System.Collections.ObjectModel.ObservableCollection<global::AniConApp.View.AniconValues>);
+            _typeTable[9] = typeof(global::System.Collections.ObjectModel.Collection<global::AniConApp.View.AniconValues>);
+            _typeTable[10] = typeof(global::AniConApp.View.AniconValues);
+            _typeTable[11] = typeof(global::System.String);
+            _typeTable[12] = typeof(global::AniConApp.View.AniConRouteView);
+            _typeTable[13] = typeof(global::AniConApp.MainPage);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -175,7 +197,39 @@ namespace AniConApp.AniConApp_XamlTypeInfo
             return -1;
         }
 
-        private object Activate_0_MainPage() { return new global::AniConApp.MainPage(); }
+        private object Activate_0_AniConInfoView() { return new global::AniConApp.View.AniConInfoView(); }
+        private object Activate_3_AniConMonthView() { return new global::AniConApp.View.AniConMonthView(); }
+        private object Activate_4_ObservableCollection() { return new global::System.Collections.ObjectModel.ObservableCollection<global::AniConApp.View.Month>(); }
+        private object Activate_5_Collection() { return new global::System.Collections.ObjectModel.Collection<global::AniConApp.View.Month>(); }
+        private object Activate_7_Month() { return new global::AniConApp.View.Month(); }
+        private object Activate_8_ObservableCollection() { return new global::System.Collections.ObjectModel.ObservableCollection<global::AniConApp.View.AniconValues>(); }
+        private object Activate_9_Collection() { return new global::System.Collections.ObjectModel.Collection<global::AniConApp.View.AniconValues>(); }
+        private object Activate_12_AniConRouteView() { return new global::AniConApp.View.AniConRouteView(); }
+        private object Activate_13_MainPage() { return new global::AniConApp.MainPage(); }
+        private void VectorAdd_4_ObservableCollection(object instance, object item)
+        {
+            var collection = (global::System.Collections.Generic.ICollection<global::AniConApp.View.Month>)instance;
+            var newItem = (global::AniConApp.View.Month)item;
+            collection.Add(newItem);
+        }
+        private void VectorAdd_5_Collection(object instance, object item)
+        {
+            var collection = (global::System.Collections.Generic.ICollection<global::AniConApp.View.Month>)instance;
+            var newItem = (global::AniConApp.View.Month)item;
+            collection.Add(newItem);
+        }
+        private void VectorAdd_8_ObservableCollection(object instance, object item)
+        {
+            var collection = (global::System.Collections.Generic.ICollection<global::AniConApp.View.AniconValues>)instance;
+            var newItem = (global::AniConApp.View.AniconValues)item;
+            collection.Add(newItem);
+        }
+        private void VectorAdd_9_Collection(object instance, object item)
+        {
+            var collection = (global::System.Collections.Generic.ICollection<global::AniConApp.View.AniconValues>)instance;
+            var newItem = (global::AniConApp.View.AniconValues)item;
+            collection.Add(newItem);
+        }
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -187,9 +241,9 @@ namespace AniConApp.AniConApp_XamlTypeInfo
             switch (typeIndex)
             {
 
-            case 0:   //  AniConApp.MainPage
+            case 0:   //  AniConApp.View.AniConInfoView
                 userType = new global::AniConApp.AniConApp_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_0_MainPage;
+                userType.Activator = Activate_0_AniConInfoView;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
@@ -201,16 +255,148 @@ namespace AniConApp.AniConApp_XamlTypeInfo
             case 2:   //  Windows.UI.Xaml.Controls.UserControl
                 xamlType = new global::AniConApp.AniConApp_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
+
+            case 3:   //  AniConApp.View.AniConMonthView
+                userType = new global::AniConApp.AniConApp_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_3_AniConMonthView;
+                userType.AddMemberName("Groups");
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 4:   //  System.Collections.ObjectModel.ObservableCollection`1<AniConApp.View.Month>
+                userType = new global::AniConApp.AniConApp_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("System.Collections.ObjectModel.Collection`1<AniConApp.View.Month>"));
+                userType.CollectionAdd = VectorAdd_4_ObservableCollection;
+                userType.SetIsReturnTypeStub();
+                xamlType = userType;
+                break;
+
+            case 5:   //  System.Collections.ObjectModel.Collection`1<AniConApp.View.Month>
+                userType = new global::AniConApp.AniConApp_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
+                userType.Activator = Activate_5_Collection;
+                userType.CollectionAdd = VectorAdd_5_Collection;
+                xamlType = userType;
+                break;
+
+            case 6:   //  Object
+                xamlType = new global::AniConApp.AniConApp_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                break;
+
+            case 7:   //  AniConApp.View.Month
+                userType = new global::AniConApp.AniConApp_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
+                userType.Activator = Activate_7_Month;
+                userType.AddMemberName("Items");
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 8:   //  System.Collections.ObjectModel.ObservableCollection`1<AniConApp.View.AniconValues>
+                userType = new global::AniConApp.AniConApp_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("System.Collections.ObjectModel.Collection`1<AniConApp.View.AniconValues>"));
+                userType.CollectionAdd = VectorAdd_8_ObservableCollection;
+                userType.SetIsReturnTypeStub();
+                xamlType = userType;
+                break;
+
+            case 9:   //  System.Collections.ObjectModel.Collection`1<AniConApp.View.AniconValues>
+                userType = new global::AniConApp.AniConApp_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
+                userType.Activator = Activate_9_Collection;
+                userType.CollectionAdd = VectorAdd_9_Collection;
+                xamlType = userType;
+                break;
+
+            case 10:   //  AniConApp.View.AniconValues
+                userType = new global::AniConApp.AniConApp_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
+                userType.AddMemberName("Name");
+                userType.AddMemberName("Location");
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 11:   //  String
+                xamlType = new global::AniConApp.AniConApp_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                break;
+
+            case 12:   //  AniConApp.View.AniConRouteView
+                userType = new global::AniConApp.AniConApp_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_12_AniConRouteView;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 13:   //  AniConApp.MainPage
+                userType = new global::AniConApp.AniConApp_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_13_MainPage;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
             }
             return xamlType;
         }
 
 
+        private object get_0_AniConMonthView_Groups(object instance)
+        {
+            var that = (global::AniConApp.View.AniConMonthView)instance;
+            return that.Groups;
+        }
+        private object get_1_Month_Items(object instance)
+        {
+            var that = (global::AniConApp.View.Month)instance;
+            return that.Items;
+        }
+        private object get_2_AniconValues_Name(object instance)
+        {
+            var that = (global::AniConApp.View.AniconValues)instance;
+            return that.Name;
+        }
+        private void set_2_AniconValues_Name(object instance, object Value)
+        {
+            var that = (global::AniConApp.View.AniconValues)instance;
+            that.Name = (global::System.String)Value;
+        }
+        private object get_3_AniconValues_Location(object instance)
+        {
+            var that = (global::AniConApp.View.AniconValues)instance;
+            return that.Location;
+        }
+        private void set_3_AniconValues_Location(object instance, object Value)
+        {
+            var that = (global::AniConApp.View.AniconValues)instance;
+            that.Location = (global::System.String)Value;
+        }
 
         private global::Windows.UI.Xaml.Markup.IXamlMember CreateXamlMember(string longMemberName)
         {
             global::AniConApp.AniConApp_XamlTypeInfo.XamlMember xamlMember = null;
-            // No Local Properties
+            global::AniConApp.AniConApp_XamlTypeInfo.XamlUserType userType;
+
+            switch (longMemberName)
+            {
+            case "AniConApp.View.AniConMonthView.Groups":
+                userType = (global::AniConApp.AniConApp_XamlTypeInfo.XamlUserType)GetXamlTypeByName("AniConApp.View.AniConMonthView");
+                xamlMember = new global::AniConApp.AniConApp_XamlTypeInfo.XamlMember(this, "Groups", "System.Collections.ObjectModel.ObservableCollection`1<AniConApp.View.Month>");
+                xamlMember.Getter = get_0_AniConMonthView_Groups;
+                xamlMember.SetIsReadOnly();
+                break;
+            case "AniConApp.View.Month.Items":
+                userType = (global::AniConApp.AniConApp_XamlTypeInfo.XamlUserType)GetXamlTypeByName("AniConApp.View.Month");
+                xamlMember = new global::AniConApp.AniConApp_XamlTypeInfo.XamlMember(this, "Items", "System.Collections.ObjectModel.ObservableCollection`1<AniConApp.View.AniconValues>");
+                xamlMember.Getter = get_1_Month_Items;
+                xamlMember.SetIsReadOnly();
+                break;
+            case "AniConApp.View.AniconValues.Name":
+                userType = (global::AniConApp.AniConApp_XamlTypeInfo.XamlUserType)GetXamlTypeByName("AniConApp.View.AniconValues");
+                xamlMember = new global::AniConApp.AniConApp_XamlTypeInfo.XamlMember(this, "Name", "String");
+                xamlMember.Getter = get_2_AniconValues_Name;
+                xamlMember.Setter = set_2_AniconValues_Name;
+                break;
+            case "AniConApp.View.AniconValues.Location":
+                userType = (global::AniConApp.AniConApp_XamlTypeInfo.XamlUserType)GetXamlTypeByName("AniConApp.View.AniconValues");
+                xamlMember = new global::AniConApp.AniConApp_XamlTypeInfo.XamlMember(this, "Location", "String");
+                xamlMember.Getter = get_3_AniconValues_Location;
+                xamlMember.Setter = set_3_AniconValues_Location;
+                break;
+            }
             return xamlMember;
         }
     }

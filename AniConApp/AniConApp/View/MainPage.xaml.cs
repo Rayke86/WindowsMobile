@@ -29,6 +29,7 @@ namespace AniConApp
         {
             mainController = new MainController();
             this.InitializeComponent();
+            
         }
 
         private void gotoAnicons(object sender, RoutedEventArgs e)
