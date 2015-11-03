@@ -22,13 +22,13 @@
     <AppXManifest Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-11-03T11:36:13.152</Modified>
+      <Modified>2015-11-03T11:46:39.749</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\AniConApp.exe">
       <PackagePath>AniConApp.exe</PackagePath>
-      <Modified>2015-11-03T11:36:13.150</Modified>
+      <Modified>2015-11-03T11:46:39.747</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\AniConApp.xr.xml">
       <PackagePath>AniConApp.xr.xml</PackagePath>
@@ -93,7 +93,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\entrypoint\AniConApp.exe">
       <PackagePath>entrypoint\AniConApp.exe</PackagePath>
-      <Modified>2015-11-03T11:36:12.721</Modified>
+      <Modified>2015-11-03T11:46:39.294</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\WindowsMobile\AniConApp\AniConApp\bin\x86\Debug\Core\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>

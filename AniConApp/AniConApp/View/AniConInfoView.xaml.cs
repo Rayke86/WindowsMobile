@@ -74,6 +74,18 @@ namespace AniConApp.View
             Ppin.Margin = new Thickness(-12.5, -12.5, 0, 0);
             pin.Children.Add(Ppin);
 
+            try
+            {
+               // Windows.Devices.Geolocation.Geolocator.RequestAccessAsync().Completed()
+                    
+            }
+            catch (Exception ex)
+            {
+
+            }
+            
+
+
             //Windows.Devices.Geolocation.Geolocator.RequestAccessAsync().Completed( 
 
             //Windows.UI.Xaml.Controls.Maps.MapRouteView route = new Windows.UI.Xaml.Controls.Maps.MapRouteView()
